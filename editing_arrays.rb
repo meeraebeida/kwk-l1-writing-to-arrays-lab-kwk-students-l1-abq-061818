@@ -1,6 +1,2 @@
-rainbow_colors = [
-  "yellow",
-  "default",
-  "light_cya
-def  rainbow_colors[0]= red
-  puts rainbow_colors[0]
+rainbow_colors = ["red","light_red,"yellow","green","blue"]
+put rainbow_colors
